@@ -1,5 +1,7 @@
 This project was created as part of the Web Dev Basics module in Scrimba's Frontend Career Path program. HTML and CSS were utilized to make this birthday GIFt site for my son.
 
+Tools used include Flexbox, gradients, and the :hover selector.
+
 ## Supporting Scrimba
 
 Since 2017, we have created over 20 free courses on Scrimba, and we're going to
